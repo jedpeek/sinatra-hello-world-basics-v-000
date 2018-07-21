@@ -1,7 +1,7 @@
 class App < Sinatra::Base
 
   get '/' do
-    "HOWDY!"
+    "Hello World!"
   end
   # Define your GET '/' route below and respond with "Hello, World!"
 
